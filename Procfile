@@ -1,1 +1,1 @@
-web: gunicorn camp-bootcamp-test:app
+web: gunicorn app:app
